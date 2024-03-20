@@ -1,0 +1,19 @@
+{
+  "generator-ui5-ts-app": {
+    "namespace": "flexus.sample.tensorflow",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.122.0",
+    "author": "Ronny Schuhl",
+    "initrepo": true,
+    "tstypes": "@openui5/types",
+    "tstypesVersion": "1.122.0",
+    "appId": "flexus.sample.tensorflow",
+    "appURI": "flexus/sample/tensorflow",
+    "cdnDomain": "sdk.openui5.org",
+    "defaultTheme": "sap_horizon",
+    "gte1_98_0": true,
+    "gte1_104_0": true,
+    "gte1_115_0": true,
+    "setupCompleted": true
+  }
+}
