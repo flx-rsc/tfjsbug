@@ -1,11 +1,11 @@
 <mvc:View
-	controllerName="flexus.sample.tensorflow.controller.Main"
+	controllerName="flxrsc.sample.tensorflow.controller.Main"
 	displayBlock="true"
 	xmlns="sap.m"
 	xmlns:mvc="sap.ui.core.mvc"
 	xmlns:core="sap.ui.core"
 	core:require="{
-		formatter: 'flexus/sample/tensorflow/model/formatter'
+		formatter: 'flxrsc/sample/tensorflow/model/formatter'
 	}">
 
 	<Page

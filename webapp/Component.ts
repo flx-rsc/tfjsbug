@@ -3,7 +3,7 @@ import models from "./model/models";
 import Device from "sap/ui/Device";
 
 /**
- * @namespace flexus.sample.tensorflow
+ * @namespace flxrsc.sample.tensorflow
  */
 export default class Component extends UIComponent {
 	public static metadata = {

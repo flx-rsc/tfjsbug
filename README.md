@@ -1,4 +1,4 @@
-# UI5 Application flexus.sample.tensorflow
+# UI5 Application flxrsc.sample.tensorflow
 
 Insert the purpose of this project and some interesting info here...
 

@@ -1,7 +1,7 @@
 import BaseController from "./BaseController";
 
 /**
- * @namespace flexus.sample.tensorflow.controller
+ * @namespace flxrsc.sample.tensorflow.controller
  */
 export default class App extends BaseController {
 	public onInit(): void {

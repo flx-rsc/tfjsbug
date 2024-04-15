@@ -1,4 +1,4 @@
-import Main from "flexus/sample/tensorflow/controller/Main.controller";
+import Main from "flxrsc/sample/tensorflow/controller/Main.controller";
 
 QUnit.module("Sample Main controller test");
 

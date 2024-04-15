@@ -2,7 +2,7 @@
 	"_version": "1.12.0",
 
 	"sap.app": {
-		"id": "flexus.sample.tensorflow",
+		"id": "flxrsc.sample.tensorflow",
 		"type": "application",
 		"i18n": "i18n/i18n.properties",
 		"title": "{{appTitle}}",
@@ -24,7 +24,7 @@
 
 	"sap.ui5": {
 		"rootView": {
-			"viewName": "flexus.sample.tensorflow.view.App",
+			"viewName": "flxrsc.sample.tensorflow.view.App",
 			"type": "XML",
 			"async": true,
 			"id": "app"
@@ -49,7 +49,7 @@
 			"i18n": {
 				"type": "sap.ui.model.resource.ResourceModel",
 				"settings": {
-					"bundleName": "flexus.sample.tensorflow.i18n.i18n"
+					"bundleName": "flxrsc.sample.tensorflow.i18n.i18n"
 				}
 			}
 		},
@@ -58,7 +58,7 @@
 			"config": {
 				"routerClass": "sap.m.routing.Router",
 				"viewType": "XML",
-				"viewPath": "flexus.sample.tensorflow.view",
+				"viewPath": "flxrsc.sample.tensorflow.view",
 				"controlId": "app",
 				"controlAggregation": "pages",
 				"async": true
